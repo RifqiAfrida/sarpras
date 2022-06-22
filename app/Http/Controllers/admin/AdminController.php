@@ -16,6 +16,8 @@ use App\Http\Requests\AdminUserRequest;
 class AdminController extends Controller
 {
     /**
+     * Admin controller sama dengan user controller tapi memiliki pembeda role atau is_admin
+     * 
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response

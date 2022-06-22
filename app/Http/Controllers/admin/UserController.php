@@ -52,7 +52,7 @@ class UserController extends Controller
     }
 
     /**
-     *
+     *Menambahkan data baru ke database seperti create user
      * 
      * Store a newly created resource in storage.
      *
